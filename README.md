@@ -1,5 +1,5 @@
 ## 👋 Hi there!  
-🎓 I'm a 3rd-year Computer Science student at AGH University in Krakow.
+🎓 I'm a 3rd-year Computer Science student at AGH University in Krakow.  
 ❤️ I love building projects, especially those involving OOP and databases.
 
 ### 🛠 Tech Stack  
